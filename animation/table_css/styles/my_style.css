@@ -1,0 +1,208 @@
+html,body{
+  width: 100%;
+  height: 100%;
+}
+header{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+table{
+  width: 480px;
+  margin-left: 400px;
+  height: 480px;
+  border-collapse: collapse;
+}
+table tr .col11{
+  background-color: #000000;
+}
+table tr .col12{
+  background-color: #8C0044;
+}
+table tr .col13{
+  background-color: #880000 ;
+}
+table tr .col14{
+  background-color: #A42D00 ;
+}
+table tr .col15{
+  background-color:#BB5500;
+}
+table tr .col16{
+  background-color: #886600;
+}
+table tr .col17{
+  background-color: #888800;
+}
+table tr .col18{
+  background-color: #668800;
+}
+table tr .col21{
+  background-color: #227700;
+}
+table tr .col22{
+  background-color: #008800;
+}
+table tr .col23{
+  background-color: #008844;
+}
+table tr .col24{
+  background-color: #008866;
+}
+table tr .col25{
+  background-color: #008888;
+}
+table tr .col26{
+  background-color: #007799;
+}
+table tr .col27{
+  background-color:  	#003377;
+}
+table tr .col28{
+  background-color: #000088 ;
+}
+table tr .col31{
+  background-color: #220088;
+}
+table tr .col32{
+  background-color: #3A0088;
+}
+table tr .col33{
+  background-color: #550088;
+}
+table tr .col34{
+  background-color: #660077 ;
+}
+table tr .col35{
+  background-color: #770077 ;
+}
+table tr .col36{
+  background-color: #FF00FF;
+}
+table tr .col37{
+  background-color: #CC00FF;
+}
+table tr .col38{
+  background-color: #9900FF;
+}
+table tr .col41{
+  background-color: #7700FF;
+}
+table tr .col42{
+  background-color: #5500FF ;
+}
+table tr .col43{
+  background-color: #0000FF;
+}
+table tr .col44{
+  background-color: #0066FF;
+}
+table tr .col45{
+  background-color: #00BBFF;
+}
+table tr .col46{
+  background-color: #00FFFF;
+}
+table tr .col47{
+  background-color: #00FFCC;
+}
+table tr .col48{
+  background-color: #00FF99;
+}
+table tr .col51{
+  background-color: #00FF00;
+}
+table tr .col52{
+  background-color: #77FF00;
+}
+table tr .col53{
+  background-color: #BBFF00;
+}
+table tr .col54{
+  background-color: #FFFF00;
+}
+table tr .col55{
+  background-color:  #FFBB00 ;
+}
+table tr .col56{
+  background-color: #FF8800;
+}
+table tr .col57{
+  background-color: #FF5511 ;
+}
+table tr .col58{
+  background-color: #FF0000;
+}
+table tr .col61{
+  background-color: #FF0088;
+}
+table tr .col62{
+  background-color: #888888;
+}
+table tr .col63{
+  background-color: #FFFFFF;
+}
+table tr .col64{
+  background-color: #FFB7DD;
+}
+table tr .col65{
+  background-color: #FFCCCC;
+}
+table tr .col66{
+  background-color: #FFC8B4;
+}
+table tr .col67{
+  background-color: #FFDDAA;
+}
+table tr .col68{
+  background-color: #FFEE99;
+}
+table tr .col71{
+  background-color: #FFFFBB;
+}
+table tr .col72{
+  background-color: #EEFFBB;
+}
+table tr .col73{
+  background-color: #CCFF99;
+}
+table tr .col74{
+  background-color: #99FF99;
+}
+table tr .col75{
+  background-color: #BBFFEE;
+}
+table tr .col76{
+  background-color: #AAFFEE;
+}
+table tr .col77{
+  background-color: #99FFFF;
+}
+table tr .col78{
+  background-color: #CCEEFF;
+}
+table tr .col81{
+  background-color: #CCDDFF;
+}
+table tr .col82{
+  background-color: #CCCCFF;
+}
+table tr .col83{
+  background-color: #CCBBFF;
+}
+table tr .col84{
+  background-color: #D1BBFF;
+}
+table tr .col85{
+  background-color: #E8CCFF;
+}
+table tr .col86{
+  background-color: #F0BBFF;
+}
+table tr .col87{
+  background-color: #FFB3FF;
+}
+table tr .col88{
+  background-color: #F4A460;
+}

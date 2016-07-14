@@ -4,6 +4,8 @@ $(document).ready(function(){
 {
     return Math.floor(min + Math.random() * (max - min));
 }
+
+
   var tem1 = "<tr>"
   var tem3 = "</tr>";
   for(var i = 1; i<=8; i++){
@@ -22,12 +24,14 @@ $(document).ready(function(){
   var tem = tem1+tem2+tem3;
   $("table").append(tem);
 }
-$(function(){
-  $("button").click(function(){
-    refresh();
-  });
+var arr = $("td");
+var arrk = 0;
+$(function() {
+  mytime = setInterval(function(){showme()}, 300);
+  function showme(){
+    $(arr[arrk]).css("background-color","#FFFFFF");
+    arrk += 1;
+    if(arrk >= arr.length) clearInterval(mytime);
+  }
 });
-function refresh(){
-  window.location.reload();
-}
 });

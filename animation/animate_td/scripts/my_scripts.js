@@ -24,14 +24,14 @@ $(document).ready(function(){
   var tem = tem1+tem2+tem3;
   $("table").append(tem);
 }
-var arr = $("td");
-var arrk = 0;
-$(function() {
-  mytime = setInterval(function(){showme()}, 300);
-  function showme(){
-    $(arr[arrk]).css("background-color","#FFFFFF");
-    arrk += 1;
-    if(arrk >= arr.length) clearInterval(mytime);
-  }
-});
+  var arr = $("td");
+  var arrk = 0;
+  $(function() {
+    mytime = setInterval(function(){showme()}, 300);
+    function showme(){
+      $(arr[arrk]).css("background-color","#FFFFFF");
+      arrk += 1;
+      if(arrk >= arr.length) clearInterval(mytime);
+    }
+  });
 });

@@ -34,6 +34,7 @@ body{
   height: 100%;
   top: 0;
   left: 0;
+  display: none;
 }
 .lv{
   position: absolute;
@@ -83,6 +84,7 @@ table{
   text-align: center;
   width: 100%;
   top: 0;
+  display: none;
 }
 .page-end p{
   font-size: 20px;
@@ -102,6 +104,7 @@ table{
   top: 0;
   text-align: center;
   width: 100%;
+  display: none;
 }
 .content-continue h1{
   font-size: 40px;

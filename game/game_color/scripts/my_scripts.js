@@ -1,8 +1,4 @@
 $(document).ready(function(){
-  $(".page-middle").hide();
-  $(".page-end").hide();
-  $(".content-continue").hide();
-
   var count = 60;
   $('.time').html(count);
   var b = true;

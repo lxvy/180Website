@@ -36,7 +36,7 @@ $(document).ready(function(){
 
   });
 
-  var color = ["0","1","2","3","4","5","6","7","8","9","A","B","C","D","E","F"];
+
   function random(min,max){
     return Math.floor(min + Math.random() * (max - min));
   }
@@ -83,6 +83,8 @@ $(document).ready(function(){
         }else if(count >= 0 && b == false){
           $(".btn-resume").click(function(){
             b = true;
+            count = count + 1;
+            $('.time').html(count);
             $(".page-middle").show();
             $(".content-continue").hide();
             jump();

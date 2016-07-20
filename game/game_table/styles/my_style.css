@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+}
+table{
+  width: 550px;
+  margin: auto;
+  height: 550px;
+  border-collapse: collapse;
+}
+
+h1{
+  font-size: 50px;
+}
+.jibie{
+  position: absolute;
+  right: 400px;
+  top: 113px;
+}
+button{
+  background-color: rgb(85, 153, 255);
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+}
+td{
+  border:15px solid #4D4D4D;
+  background-color:rgb(255, 187, 102);
+}
+.clo{
+  background-color: rgb(85, 153, 255);
+}

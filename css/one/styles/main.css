@@ -1,0 +1,27 @@
+body{
+  background: #0DCECB;
+  color: #fff;
+}
+header{
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.inner{
+  width: 1050px;
+  margin: 0 auto;
+}
+.load-container {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  width: 150px;
+  height: 150px;
+  float: left;
+  position: relative;
+  overflow: hidden;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.load {
+  margin: auto;
+  margin-top: 30%;
+}

@@ -1,0 +1,11 @@
+#co{
+  margin: auto;
+}
+.co1{
+  background: linear-gradient(#00A9F1 40%, #26BAF4 30%);
+  background-size: 100% 20%;
+}
+.co2{
+  background: linear-gradient(45deg, #A9CE00 25%, #BBD817 0, #BBD817 50%, #A9CE00 0, #A9CE00 75%, #BBD817 0);
+  background-size: 40px 40px;
+}

@@ -1,0 +1,14 @@
+body{
+  background: #eee;
+}
+header{
+  color: #888;
+  text-align: center;
+  font-size: 24px;
+}
+.load{
+  width: 200px;
+  height: 150px;
+  margin: 11px;
+  float: left;
+}

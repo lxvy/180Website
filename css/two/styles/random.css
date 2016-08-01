@@ -1,0 +1,14 @@
+#random{
+  margin: auto;
+}
+.random1{
+  background: linear-gradient(90deg, #fb3 15%, #655 0, #655 40%, #ab4 0, #ab4 65%, hsl(20,40%,90%) 0);
+  background-size: 80px 100%;
+}
+.random2{
+  background: hsl(20,40%,90%);
+  background: linear-gradient(90deg, #fb3 11px, transparent 0),
+              linear-gradient(90deg, #ab4 23px, transparent 0),
+              linear-gradient(90deg, #655 41px, transparent 0);
+  background-size: 41px 100%, 61px 100%, 83px 100%;
+}

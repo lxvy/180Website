@@ -1,8 +1,9 @@
 body{
   background-color: #F06060;
   color: #ffffff;
-  width: 100%;
-  height: 100%;
+}
+body>a{
+  display: none;
 }
 
 .page-first h1{
